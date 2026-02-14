@@ -1,4 +1,4 @@
-# Java Programming Examples
+# Java Programming
 
 A collection of Java programming examples and tutorials covering fundamental concepts for beginners and intermediate learners.
 
